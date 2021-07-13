@@ -1,0 +1,26 @@
+FEATURE_NAME,Count,Miss %,Card.,Mode,Mode Freq,Mode %,2nd Mode,2nd Mode Freq,2nd Mode %
+restaurant_link,1083397,0.0,1083397,g186621-d3410012,1,0.0,g186621-d3410012,1,0.0
+restaurant_name,1083397,0.0,840914,Subway,4881,0.45,Subway,4881,0.45
+original_location,1083397,0.0,65997,"[""Europe"", ""United Kingdom (UK)"", ""England"", ""London""]",22942,2.12,"[""Europe"", ""United Kingdom (UK)"", ""England"", ""London""]",22942,2.12
+country,1083397,0.0,24,Italy,224763,20.75,Italy,224763,20.75
+region,1033074,4.644927021211984,250,Lombardy,33097,3.2,Lombardy,33097,3.2
+province,742765,31.441106076535196,1333,Province of Barcelona,18952,2.55,Province of Barcelona,18952,2.55
+city,682712,36.98413416319226,43495,Paris,18129,2.66,Paris,18129,2.66
+address,1083397,0.0,1034685,Greece,92,0.01,Greece,92,0.01
+claimed,1081555,0.170020777240476,2,Unclaimed,607159,56.14,Unclaimed,607159,56.14
+awards,263133,75.71222737371434,917,"Travellers' Choice, Certificate of Excellence 2020",20868,7.93,"Travellers' Choice, Certificate of Excellence 2020",20868,7.93
+popularity_detailed,988409,8.767607811356317,981409,#7616 of 8661 Restaurants in Barcelona,119,0.01,#7616 of 8661 Restaurants in Barcelona,119,0.01
+popularity_generic,985605,9.026423370195783,981940,#1 of 1 places to eat in Agios Ioannis,6,0.0,#1 of 1 places to eat in Agios Ioannis,6,0.0
+top_tags,972763,10.211769092954844,39962,"Mid-range, French",20211,2.08,"Mid-range, French",20211,2.08
+price_level,806192,25.58665013840725,3,€€-€€€,537918,66.72,€€-€€€,537918,66.72
+price_range,304327,71.90992775501502,7298,€10-€30,5937,1.95,€10-€30,5937,1.95
+meals,635347,41.35603107632752,745,"Lunch, Dinner",196123,30.87,"Lunch, Dinner",196123,30.87
+cuisines,914294,15.60859038745723,97741,Italian,53243,5.82,Italian,53243,5.82
+special_diets,340256,68.593599576148,68,Vegetarian Friendly,156652,46.04,Vegetarian Friendly,156652,46.04
+features,317407,70.70261409252564,56453,Reservations,36514,11.5,Reservations,36514,11.5
+default_language,988204,8.786529776250072,2,English,689754,69.8,English,689754,69.8
+vegetarian_friendly,1083397,0.0,2,N,759380,70.09,N,759380,70.09
+vegan_options,1083397,0.0,2,N,946800,87.39,N,946800,87.39
+gluten_free,1083397,0.0,2,N,959900,88.6,N,959900,88.6
+original_open_hours,593832,45.187959722982434,237890,"{""Mon"": [""00:00-23:59""], ""Tue"": [""00:00-23:59""], ""Wed"": [""00:00-23:59""], ""Thu"": [""00:00-23:59""], ""Fri"": [""00:00-23:59""], ""Sat"": [""00:00-23:59""], ""Sun"": [""00:00-23:59""]}",7674,1.29,"{""Mon"": [""00:00-23:59""], ""Tue"": [""00:00-23:59""], ""Wed"": [""00:00-23:59""], ""Thu"": [""00:00-23:59""], ""Fri"": [""00:00-23:59""], ""Sat"": [""00:00-23:59""], ""Sun"": [""00:00-23:59""]}",7674,1.29
+keywords,99198,90.84379964131338,99001,"steak, onion loaf, lettuce wedge, chateaubriand, t bone",7,0.01,"steak, onion loaf, lettuce wedge, chateaubriand, t bone",7,0.01
